@@ -14,10 +14,12 @@ This Mini 4WD has been modified by adding steering and dynamo speed control. Ste
 
 <img src="https://github.com/mariofarrel/Bluetooh-Controlled-Mini-4WD/blob/main/images/Programming.jpg" width="490" height="653">
 
-## Demo Video
+## Demo Videos
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6x5fHI8SISU" target="_blank"><img src="http://img.youtube.com/vi/6x5fHI8SISU/0.jpg" alt="Mario - Bluetooh Controlled Mini 4WD Demo - PS3 Controller" width="480" height="360" border="10" /></a>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_-hlEugZ76w" target="_blank"><img src="http://img.youtube.com/vi/_-hlEugZ76w/0.jpg" alt="Mario - Bluetooh Controlled Mini 4WD Demo" width="480" height="360" border="10" /></a>
 
-## Reference
+## References
 [Azpaca - Control Mini 4WD by Bluetooth](https://youtu.be/KwsRqxlfTfY)
 
 [AHF Project - PASTI BISA !!!! Cara menghubungkan Stik Ps3 ke ESP32 | Stick Playstation 3 to ESP32 [#Tutorial22]](https://youtu.be/sceY7TyEAQc)
