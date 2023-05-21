@@ -1,4 +1,4 @@
-# Bluetooh Controlled Mini 4WD
+# Bluetooth Controlled Mini 4WD
 ## Overview
 This Mini 4WD has been modified by adding steering and dynamo speed control. Steering is carried out by the SG90 servo and dynamo speed control is carried out by the L298N motor driver. Servo SG90 and motor driver L298N are connected to the ESP32 microcontroller (bluetooth host) so that they can be controlled via a PS3 controller (bluetooth client). Programming is done with the Arduino IDE, [code attached](https://github.com/mariofarrel/Bluetooh-Controlled-Mini-4WD/blob/main/BC_Mini_4WD_Final.ino).
 
